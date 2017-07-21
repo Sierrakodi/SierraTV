@@ -444,27 +444,27 @@ http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13539.ts
 #EXTINF:-1,UK: GEO TV
 http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13544.ts
 #EXTINF:-1,=======   UK:CHILDREN’S   =======
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8251.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8251.ts
 #EXTINF:-1,UK: Baby TV
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11778.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11778.ts
 #EXTINF:-1,UK: Kix
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11469.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11469.ts
 #EXTINF:-1,UK: Kix +1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13584.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13584.ts
 #EXTINF:-1,UK: Cartoon Network
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7034.ts
 #EXTINF:-1,UK: NickJr Too
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7543.ts
 #EXTINF:-1,UK: Nicktoons
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7055.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7055.ts
 #EXTINF:-1,UK: Disney Junior
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7542.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7542.ts
 #EXTINF:-1,UK: Disney Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7032.ts
 #EXTINF:-1,UK: Nickelodeon
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7366.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7366.ts
 #EXTINF:-1,UK: DISNEY XD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7070.ts
 #EXTINF:-1,UK: CBEEBIES
 http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7079.ts
 #EXTINF:-1,UK: CBBC
