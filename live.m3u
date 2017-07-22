@@ -11,12 +11,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12365.ts
 #EXTINF:-1,UK: Sky Two
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7373.ts
-#EXTINF:-1,UK: Pick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7054.ts
-#EXTINF:-1,UK: Pick +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13519.ts
-#EXTINF:-1,UK: My5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13556.ts
 #EXTINF:-1,UK: DAVE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7072.ts
 #EXTINF:-1,UK: SKY LIVING
