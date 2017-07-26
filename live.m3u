@@ -1,4 +1,9 @@
 #EXTINF:-1,=======   TESTING   =======
+<streamingInfos>
+<item>
+<title>thetestlink</title>
+<link>http://vip.groupiptv.com:7000/live/lottie/lottie/3590.ts</link>
+<thumbnail>imagehere</thumbnail>
 #EXTINF:-1,UK | Sky Sports 1
 http://vip.groupiptv.com:7000/live/lottie/lottie/3590.ts
 #EXTINF:-1,UK | Sky Sports 1 HD
