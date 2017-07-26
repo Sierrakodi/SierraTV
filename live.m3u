@@ -1,4 +1,8 @@
 #EXTINF:-1,=======   UK:SPORT   =======
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6981.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13713.ts
 #EXTINF:-1,UK: Sky Sports Main Event HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8352.ts
 #EXTINF:-1,UK: Sky Sports Main Event
@@ -17,10 +21,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7038.ts
 #EXTINF:-1,UK: Sky Sports Mix HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8349.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6981.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13713.ts
 #EXTINF:-1,UK: Sky Sports Mix
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7039.ts
 #EXTINF:-1,UK: Sky Sports F1 HD
