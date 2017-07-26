@@ -9,22 +9,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cablekin
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16229.ts
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16230.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15971.ts
-#EXTINF:-1,SKY SPORTS CRICKET*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15972.ts
-#EXTINF:-1,SKY SPORTS ACTION*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15973.ts
-#EXTINF:-1,SKY SPORTS THE OPEN*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15974.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15975.ts
-#EXTINF:-1,Sky sports F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/15998.ts
 #EXTINF:-1,Sky Sports News HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16231.ts
-#EXTINF:-1,Skysports News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16022.ts
 #EXTINF:-1,SKY SPORTS MIX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16247.ts
 #EXTINF:-1,Sky F1 HD
@@ -35,18 +21,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cablekin
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16234.ts
 #EXTINF:-1,BT Eu HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16232.ts
-#EXTINF:-1,BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16075.ts
-#EXTINF:-1,BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16076.ts
-#EXTINF:-1,BT Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16074.ts
-#EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16042.ts
-#EXTINF:-1,At The Races
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16081.ts
-#EXTINF:-1,Eurosport UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cableking-iptv.com:8000/live/rohail/rohail/16061.ts
 #EXTINF:-1,=======   UK   =======
 #EXTINF:-1,UK: BBC2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8363.ts
