@@ -1,4 +1,7 @@
 #EXTINF:-1,=======   UK:SPORT   =======
+#EXTM3U
+#EXTINF:-1,Sky Sports 1
+http://TestEUserver1:DP3718testBT@37.59.34.83:9981/stream/channelname/Sky+Sports+1
 #EXTINF:-1,UK: Sky Sports Mix HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13713.ts
 #EXTINF:-1,UK: Sky Sports Main Event HD
@@ -267,8 +270,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13581.ts
 
 #EXTINF:-1,=======   TESTING   =======
-#EXTINF:-1,Sky Sports 1
-http://TestEUserver1:DP3718testBT@37.59.34.83:9981/stream/channelname/Sky+Sports+1
 IMPORTANT NOTE:
 
 We DO NOT host any streams on this list. All content is copyright of their respective owners.
