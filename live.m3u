@@ -1,7 +1,7 @@
 #EXTINF:-1,=======   UK:SPORT   =======
 #EXTM3U
 #EXTINF:-1,RO: TVR 1
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1501.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1501.ts
 #EXTINF:-1,RO: TVR 2
 http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1502.ts
 #EXTINF:-1,RO: TVR International
