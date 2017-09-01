@@ -3,15 +3,15 @@
 #EXTINF:-1,RO: TVR 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1501.ts
 #EXTINF:-1,TVR 1 RO
-http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/814.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/814.ts
 #EXTINF:-1,RO: TVR 1
-http://ultra.super-iptv.space:13884/live/userfast391/amicoiperc2/4625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultra.super-iptv.space:13884/live/userfast391/amicoiperc2/4625.ts
 #EXTINF:-1,TVR 1
-http://smart-iptv.ro:8880/live/walti/valtiger/3.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-iptv.ro:8880/live/walti/valtiger/3.ts
 #EXTINF:-1,RO: TVR 1
-http://185.2.83.209:8000/live/123456/123456/1693.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/1693.ts
 #EXTINF:-1,RO: TVR 1
-http://51.254.45.5/live/debbie/debbie1/4703.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.45.5/live/debbie/debbie1/4703.ts
 
 
 #EXTINF:-1,UK: Sky Sports Main Event HD
