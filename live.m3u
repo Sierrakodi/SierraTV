@@ -1,5 +1,19 @@
 #EXTINF:-1,=======   UK:SPORT   =======
 #EXTM3U
+#EXTINF:-1,RO: TVR 1
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1501.ts
+#EXTINF:-1,RO: TVR 2
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1502.ts
+#EXTINF:-1,RO: TVR International
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/935.ts
+#EXTINF:-1,RO: Digi 24
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1524.ts
+#EXTINF:-1,RO: Kanal D
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1516.ts
+#EXTINF:-1,RO: Antena 1
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1499.ts
+#EXTINF:-1,RO: Antena 3
+
 #EXTINF:-1,UK: Sky Sports Main Event HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8352.ts
 #EXTINF:-1,UK: Sky Sports Main Event
