@@ -15,3 +15,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.opent
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts
 #EXTINF:-1,USA: NBC Golf
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts
+#EXTINF:-1,[ USA ] NBC GOLF
+http://live.now-dns.top:23000/live/wAV0Z3i6iz/vkk5PTlolo/31977.ts
+#EXTINF:-1,[ USA ] NBC GOLF HD
+http://live.now-dns.top:23000/live/wAV0Z3i6iz/vkk5PTlolo/31976.ts
+#EXTINF:-1,Golf Channel US
+http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/13687.ts
+#EXTINF:-1,US: NBC Golf HD
+http://en-joy.cc:8000/live/balz2/2eUgZZCv1A/81365.ts
+#EXTINF:-1,USA:NBC_Golf
+http://universeiptv.com:8000/live/1234554321/1234554321/7560.ts
+#EXTINF:-1,[USA] Golf HD
+http://bigiptv.ovh:8000/live/57463290/57463290/10028.ts
+#EXTINF:-1,USA: Golf HD
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17145.ts
