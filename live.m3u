@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1,USA :NBC Golf Channel FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23446.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23446.ts
 #EXTINF:-1,USA :NBC Golf Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23445.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23445.ts
 #EXTINF:-1,USA :NBC Golf HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23444.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23444.ts
 #EXTINF:-1,US: NBC Golf
-http://s1.iptv61w.com:25461/live/mary/54321/9520.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv61w.com:25461/live/mary/54321/9520.ts
 #EXTINF:-1,USA : GOLF HD
-http://mnenvyiptv.org:5050/live/bert/bert/96202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mnenvyiptv.org:5050/live/bert/bert/96202.ts
 #EXTINF:-1,US: Golf HD
-http://ip.opentv.cz:8000/live/7200327335553329/7200327335553329/6347.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.opentv.cz:8000/live/7200327335553329/7200327335553329/6347.ts
 #EXTINF:-1,USA: Golf HD
-http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts
 #EXTINF:-1,USA: NBC Golf
-http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts
