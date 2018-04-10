@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,USA :NBC Golf Channel FHD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23446.ts
-#EXTINF:-1,BT Sport 2 FHD UK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.35.137.238:8080/live/HVNI1qLJyh/clTBhkW3Xb/5715.ts 
-#EXTINF:-1,BT Sport 2 VIP UK 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.35.137.238:8080/live/HVNI1qLJyh/clTBhkW3Xb/10749.ts 
+#EXTINF:-1,BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.239.57.94:8000/live/Johnf3rd35/WorldSportsPremium/35.ts
+#EXTINF:-1,UK: BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtugapt.site:8080/live/edgar/edgar/9516.ts
 #EXTINF:-1,lawl
 http://193.234.225.25/~sierradc/skipfinal.mp4
 #EXTINF:-1,nobs
