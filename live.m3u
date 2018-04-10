@@ -1,34 +1,10 @@
 #EXTM3U
 #EXTINF:-1,USA :NBC Golf Channel FHD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23446.ts
-#EXTINF:-1,USA :NBC Golf Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23445.ts
-#EXTINF:-1,USA :NBC Golf HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23444.ts
-#EXTINF:-1,US: NBC Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptv61w.com:25461/live/mary/54321/9520.ts
-#EXTINF:-1,USA : GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mnenvyiptv.org:5050/live/bert/bert/96202.ts
-#EXTINF:-1,US: Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.opentv.cz:8000/live/7200327335553329/7200327335553329/6347.ts
-#EXTINF:-1,USA: Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9424.ts
-#EXTINF:-1,USA: NBC Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvforver.com:8000/live/gareth/gareth/9401.ts
-#EXTINF:-1,[ USA ] NBC GOLF
-http://live.now-dns.top:23000/live/wAV0Z3i6iz/vkk5PTlolo/31977.ts
-#EXTINF:-1,[ USA ] NBC GOLF HD
-http://live.now-dns.top:23000/live/wAV0Z3i6iz/vkk5PTlolo/31976.ts
-#EXTINF:-1,Golf Channel US
-http://clientportal.link:8080/live/5WpbyxwTaa/zsGAkwb4LJ/13687.ts
-#EXTINF:-1,US: NBC Golf HD
-http://en-joy.cc:8000/live/balz2/2eUgZZCv1A/81365.ts
-#EXTINF:-1,USA:NBC_Golf
-http://universeiptv.com:8000/live/1234554321/1234554321/7560.ts
-#EXTINF:-1,[USA] Golf HD
-http://bigiptv.ovh:8000/live/57463290/57463290/10028.ts
-#EXTINF:-1,USA: Golf HD
-http://global.ipsatpro.tv:8080/live/waleed/waleed123/17145.ts
+#EXTINF:-1,BT Sport 2 FHD UK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.35.137.238:8080/live/HVNI1qLJyh/clTBhkW3Xb/5715.ts 
+#EXTINF:-1,BT Sport 2 VIP UK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.35.137.238:8080/live/HVNI1qLJyh/clTBhkW3Xb/10749.ts 
 #EXTINF:-1,lawl
 http://193.234.225.25/~sierradc/skipfinal.mp4
 #EXTINF:-1,nobs
